@@ -12,12 +12,7 @@ function App() {
       console.log('tính toán lại')
       return result + prod.price
     }, 0)
-
-    
-      
     return result
-
-
   },[products]) 
   
   

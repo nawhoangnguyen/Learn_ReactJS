@@ -1,0 +1,15 @@
+.btn{
+    color: red;
+        &:hover {
+            cursor: pointer;
+        }
+}
+.primary {
+    color: blue;
+    background-color: red;
+}
+
+.disabled{
+    opacity: 0.5;
+    pointer-events: none;
+}
